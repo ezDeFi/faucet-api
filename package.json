@@ -1,0 +1,30 @@
+{
+  "name": "express-node-mongo-skeleton",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "constantinople": "^3.1.2",
+    "cookie-parser": "~1.3.3",
+    "debug": "^4.1.1",
+    "dotenv": "^6.2.0",
+    "ethereumjs-tx": "^1.3.7",
+    "express": "^4.16.4",
+    "ipware": "^1.0.0",
+    "jade": "~1.9.1",
+    "jstransformer": "^1.0.0",
+    "kue": "^0.11.6",
+    "method-override": "^2.3.10",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.17",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3",
+    "redis": "^2.8.0",
+    "request": "^2.88.0",
+    "serve-favicon": "^2.5.0",
+    "web3": "^1.0.0-beta.48"
+  }
+}
