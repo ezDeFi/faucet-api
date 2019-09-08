@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "faucet",
+            "script": "npm",
+            "args" : "start"
+        }
+    ]
+}
